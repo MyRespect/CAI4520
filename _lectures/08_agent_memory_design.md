@@ -10,4 +10,5 @@ links:
 ---
 **Suggested Readings:**
 - [GenAI Tech Blog](https://www.genaiknowledge.info/)
+- [Research of Memory in AI](https://github.com/Elvin-Yiming-Du/Survey_Memory_in_AI)
 - [Memory in the Age of AI Agents](https://arxiv.org/abs/2512.13564)
