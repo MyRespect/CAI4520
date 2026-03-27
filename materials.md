@@ -20,4 +20,4 @@ permalink: /materials/
 
 * [Pytorch tutorials](https://pytorch.org/tutorials/): check APIs and running examples!
 
-* [Tensorflow tutorials](https://www.tensorflow.org/tutorials): check APIs and running examples!
+* [TensorFlow tutorials](https://www.tensorflow.org/tutorials): check APIs and running examples!

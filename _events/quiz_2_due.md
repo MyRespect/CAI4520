@@ -5,7 +5,7 @@ description: 'Quiz Day'
 hide_from_announcments: true
 ---
 **Topics:**
-1. Agentic Planning Design
-2. Reinforcement Learning
-3. Multi-Agent Design
-4. Game Theory for Agentic AI
+1. Reinforcement Learning
+2. Agentic Reasoning Basics
+3. Agentic Planning Design
+4. Multi-Agent Design

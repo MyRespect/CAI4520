@@ -1,5 +1,5 @@
 # CAI4520 @ USF
-This course "Agentic AI" is an elective course developed by Guangjing Wang.
+This course, "Introduction to Agentic AI", is an elective course developed by Guangjing Wang.
 
 # Features
 - Individual page for assignments, lectures, course material, course schedule

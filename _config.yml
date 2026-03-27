@@ -1,9 +1,9 @@
 # Site settings
-course_name: Agentic AI
+course_name: Introduction to Agentic AI
 course_description: " In this course, we will explore the foundations, architectures, 
 and real-world applications of agentic AI systems capable of autonomous reasoning, 
 planning, and action. You will learn how modern AI Agents go beyond single prompts: 
-they think and plan, use tools and data, act in the world, and learn from feedback. 
+they think and plan, use tools and external data, act in the world, and learn from feedback. 
 You will dive into the core principles that empower AI to act with purpose, 
 adapt to complex environments, and collaborate with humans in meaningful ways. 
 Along the way, you will gain insights into how agentic AI operates under the hood: 

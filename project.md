@@ -8,11 +8,11 @@ permalink: /project/
 
 ### **Final Project**
 
-Students are encouraged to form a group of 2-3 to implement both the midterm and final projects.
+Students are encouraged to form a group of 2-3 to implement the final projects.
 
 * Objective: Build an agentic AI application to solve a complex problem that needs multiple agent collaboration.
 
-* Functionality: Have a functional API or user interface to demonstrate its capabilities. It should effectively showcase the role of multi-agent in problem-solving.
+* Functionality: Have a functional API or user interface to demonstrate its capabilities. It should effectively showcase the role of multi-agent systems in problem-solving.
 
 * Documentation: Include a README.md file with clear instructions on how to run your application and code comments, and the specific coding contribution of each member.
 
@@ -22,11 +22,11 @@ Projects will be graded based on technical contribution, functionality, user exp
 
 ### **Presentation and Essay**
 
-* Project Kickoff Presentation: Describe your project, highlighting the objective, related work, challenges.
+* Project Kickoff Presentation: Describe your project, highlighting the objective, related work, and challenges.
 
 * Final Presentation: Describe your final project, including the motivation, related work, challenges, solutions, and evaluation progress.
     
-* Essay: Each group will submit ONE project essay in at least 6 content pages (excluding references) following the format in [NeurIPS 2024](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh). The content of the essay should include both the midterm and final projects. The essay should follow the general structure of a research paper:
+* Essay: Each group will submit ONE project essay in at least 8 content pages (excluding references) following the format in [ACL 2026](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj). The essay should follow the general structure of a research paper:
     * Introduction
     * Related Work
     * System Design

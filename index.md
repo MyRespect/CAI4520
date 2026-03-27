@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-Note: Some interactions are usinig the internal Canvas System at USF.
+Note: Some interactions are using the internal Canvas System at USF.
