@@ -32,4 +32,4 @@ Projects will be graded based on technical contribution, functionality, user exp
     * System Design
     * Evaluation
     * Conclusion
-    * Acknowledgment: Each group member should explain the individual contribution to both the midterm and final projects.
+    * Acknowledgment: Each group member should explain the individual contribution to the project.
