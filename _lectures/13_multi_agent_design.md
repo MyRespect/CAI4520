@@ -2,7 +2,7 @@
 type: lecture
 date: 2026-03-30T18:01:00+4:30
 title: Multi-Agent System Design
-tldr: "An introduction to Multi-Agent Design."
+tldr: "An Introduction to Multi-Agent Design."
 thumbnail: /static_files/presentations/lec.jpg
 links:
     - url: /static_files/13_multi-agent-design.pdf

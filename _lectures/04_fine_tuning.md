@@ -2,7 +2,7 @@
 type: lecture
 date: 2026-01-26T18:01:00+4:30
 title: Foundation Model and Fine-tuning
-tldr: "An introduction to instruction tuning and preference alignment."
+tldr: "An Introduction to Instruction Tuning and Preference Alignment."
 thumbnail: /static_files/presentations/lec.jpg
 links:
     - url: /static_files/04_fine-tuning.pdf

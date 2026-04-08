@@ -2,7 +2,7 @@
 type: lecture
 date: 2026-02-16T18:01:00+4:30
 title: Agent Memory Design
-tldr: "An introduction to AI agent memory design."
+tldr: "An Introduction to AI Agent Memory Design."
 thumbnail: /static_files/presentations/lec.jpg
 links:
     - url: /static_files/08_agent-memory-design.pdf

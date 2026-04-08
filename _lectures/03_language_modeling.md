@@ -2,7 +2,7 @@
 type: lecture
 date: 2026-01-21T18:01:00+4:30
 title: Large Language Modeling
-tldr: "An introduction to language modeling and LLM inference process."
+tldr: "An Introduction to Language Modeling and LLM Inference Process."
 thumbnail: /static_files/presentations/lec.jpg
 links:
     - url: /static_files/03_language_modeling.pdf

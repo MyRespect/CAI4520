@@ -2,7 +2,7 @@
 type: lecture
 date: 2026-02-02T18:01:00+4:30
 title: Context Engineering
-tldr: "An introduction to prompt design and context engineering."
+tldr: "An Introduction to Prompt Design and Context Engineering."
 thumbnail: /static_files/presentations/lec.jpg
 links:
     - url: /static_files/05_context-engineering.pdf

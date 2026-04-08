@@ -2,7 +2,7 @@
 type: lecture
 date: 2026-01-14T18:01:00+4:30
 title: Attention and Transformer
-tldr: "A review of large language model basics including attention and transformer designs."
+tldr: "A Review of Large Language Model Basics."
 thumbnail: /static_files/presentations/lec.jpg
 links:
     - url: /static_files/02_transformer.pdf

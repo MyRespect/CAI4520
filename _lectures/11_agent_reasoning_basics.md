@@ -2,7 +2,7 @@
 type: lecture
 date: 2026-03-12T18:01:00+4:30
 title: Agent Reasoning Basics
-tldr: "An introduction to AI agent reasoning."
+tldr: "An Introduction to AI Agent Reasoning."
 thumbnail: /static_files/presentations/lec.jpg
 links:
     - url: /static_files/11_agent-reasoning-basics.pdf

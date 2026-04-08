@@ -2,7 +2,7 @@
 type: lecture
 date: 2026-03-23T18:01:00+4:30
 title: AI Agent Planning Design
-tldr: "An introduction to AI Agent Planning."
+tldr: "An Introduction to AI Agent Planning."
 thumbnail: /static_files/presentations/lec.jpg
 links:
     - url: /static_files/12_agent-planning-design.pdf
