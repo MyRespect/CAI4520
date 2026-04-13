@@ -10,3 +10,4 @@ links:
 ---
 **Suggested Readings:**
 - [RLHF](https://huggingface.co/learn/deep-rl-course/unitbonus3/rlhf)
+- [Preference Optimization](https://aman.ai/primers/ai/preference-optimization/)

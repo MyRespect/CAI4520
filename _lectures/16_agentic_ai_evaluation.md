@@ -10,3 +10,4 @@ links:
 ---
 **Suggested Readings:**
 - [LLM Agent Benchmarking Survey](https://dl.acm.org/doi/abs/10.1145/3711896.3736570)
+- [LLM as a Judge](https://aman.ai/primers/ai/LLM-as-a-judge/)
